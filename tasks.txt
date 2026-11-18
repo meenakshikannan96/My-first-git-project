@@ -1,3 +1,4 @@
 1. Learn Git
 2. Learn Github
 3. Practice git branching
+4. Upload projects to Github
